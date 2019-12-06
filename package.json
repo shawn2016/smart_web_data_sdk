@@ -30,7 +30,7 @@
     "cookie-parser": "^1.3.4",
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.4",
-    "eslint": "^2.4.0",
+    "eslint": "^4.18.2",
     "express": "^4.12.2",
     "extract-text-webpack-plugin": "^2.1.2",
     "less": "^2.7.3",
